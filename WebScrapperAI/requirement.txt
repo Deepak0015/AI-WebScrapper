@@ -1,4 +1,0 @@
-streamlit 
-selenium
-bs4
-requests
